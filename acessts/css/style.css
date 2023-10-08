@@ -1,0 +1,283 @@
+
+*{
+    padding: 0px;
+    /* border: 2px solid red; */
+}
+.Carint-home {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(4, 17, 90);
+    height: 100%;
+    width: 100%;
+    padding: 10px 10px;
+}
+.Carint-home i {
+    color: rgb(0, 195, 255);
+    background-color: #FFF;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 7px;
+}
+.Carint-home a {
+    color: #FFF;
+    text-decoration: none;
+}
+/* <!-- Carint-scetion END -->  */
+
+.navbar ul {
+    margin: 10px;
+    padding-right:60px ;
+    height: 70px;
+}
+.navbar ul li a{
+    font-size: 18px;
+}
+.logo-header a {
+    font-size: 20px;
+    margin-top: 10px;
+}
+/* navbar END  */
+
+.world-pro-img img {
+    width: 100%;
+    height: 50%;
+}
+
+.tex-box {
+    position: absolute;
+    top: 260px;
+    left: 160px;
+}
+.tex-box p {
+    width: 55%;
+    color:#FFF;
+}
+.tex-box  h2 {
+    width: 30%;
+}
+.title {
+    background-color: rgb(28, 163, 163);
+    color: #FFF;
+    display: block;
+    width: 15%;
+    padding: 10px 30px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 50px;
+}
+.title:hover {
+    background-color: rgb(0, 195, 255);
+}
+/* !-- growit section END --> */
+
+.desing {
+    padding: 100px 0px;
+   
+}
+.info {
+color: rgba(0, 204, 255, 0.479);
+}
+.row .col-md-6 {
+    margin-top: 60px;
+}
+
+.learn-img img {
+    width: 15%;
+    height: 10%;
+    float: left;
+    margin-top: 30px;
+}
+.clloet {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.clloet h3 {
+    margin-left: 50px;
+}
+.clloet p {
+    width: 80%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.maore-one {
+ margin-left: 100px;
+ margin-top: 10px;
+}
+.maore-one p {
+    width: 90%;
+}
+.maore-one h3 {
+    width: 100%;
+}
+.search {
+    color: rgb(24, 22, 22);
+    text-decoration: none;
+    
+}
+.row .col-md-6  {
+  width: 540px;
+  height:220px;
+  background-color:  #F4F0EC;
+  margin: auto;
+  padding: 10px 20px;
+  margin-top: 40px;
+}
+/* <!-- desing END --> */
+
+.one-img img {
+    position: absolute;
+    width: 30%;
+    top: 1810px;
+    left: 670px;  
+}
+.about-section { 
+    padding: 100px 0px;
+}
+.heading p {
+    width: 100%;
+}
+/* <!-- about-section END  --> */
+
+.Track-section {
+    padding: 100px 0px;
+}
+
+.mate-box-img img {
+    width: 100%;
+}
+.Shipment {
+    position: absolute;
+    top: 2300px; 
+}
+.Shipment h2 {
+    color: #FFF;
+}
+.Shipment p {
+    color: #FFF;
+    width: 45%;
+}
+ .share {
+    display: block;
+    background-color: aquamarine;
+    width: 20%;
+}
+.projet-one form input {
+    width: 25%;
+    height: 45px;
+    padding-left: 20px;
+}
+/* <!-- Track-section END  --> */
+
+.testimonial {
+    padding: 100px 0px;
+}
+.actiate-one {
+    padding: 50px 0px;
+}
+.actiate-one  p {
+    width: 95%;
+    height: 250px;
+    font-size: 18px;
+    border: 1px solid black;
+    padding: 30px 40px;
+
+}
+.manga-name {
+    margin-top: 20px;
+}
+.manga-img img {
+ float: left;
+ margin-right: 20px;
+
+}
+/* <!-- testimonial END --> */
+
+.contact-section {
+    padding: 100px 0px;
+}
+.contact-fomr form input {
+    width: 50%;
+    /* border: none; */
+    height: 50px;
+    margin-bottom: 25px;
+    padding-left: 15px;
+    
+} 
+.contact-fomr {
+    margin-top: 30px;
+}
+ .Our-btn {
+    background-color: rgb(39, 133, 139);
+    color: #FFF;
+    display: block;
+    width: 140px;
+    text-align: center;
+   text-decoration: none;
+   padding: 10px 30px;
+   border-radius: 10px;
+   
+}
+.Our-btn:hover {
+    background-color: rgb(42, 99, 145);
+}
+/* <!-- contact-section  END  --> */
+
+ 
+
+.row .col-lg-4 {
+    padding: 70px 0px;
+    
+    
+}
+
+.footer-Address h2 {
+  margin-left: 10px;
+  color: #b18f8f;
+}
+.articles a {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;  
+    margin-left: 10px; 
+    text-decoration: none;
+    color: #b18f8f;
+}
+.projects_card  {
+    margin-top: 20px;
+}
+.projects_card  a {
+    font-size: 30px;
+    margin: 10px;
+    color: #b18f8f;
+}
+.art_style p {
+    width: 146%;
+    color: #b18f8f;
+}
+.footer-info {
+    margin-top: 70px;
+    color: #b18f8f;
+}
+.footer-links {
+    margin-top: 70px;
+   margin-left: 170px;
+   color: #b18f8f;
+}
+.Living  a {
+  display: flex;
+  align-items: center;
+  margin-left: 170px;
+  font-size: 20px;
+  text-decoration: none;
+  margin-bottom: 10px;
+  color: #b18f8f;
+}
+.disk {
+    background-color: rgb(7, 76, 122);
+    width: 100%;
+    height: 340px;
+}
+.link_box  {
+    text-align: center;
+    margin-top: 30px;
+}

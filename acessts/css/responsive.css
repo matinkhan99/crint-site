@@ -1,0 +1,225 @@
+@media (max-width: 1024px) {
+
+
+
+   .tex-box p {
+  width: 75%;
+   }
+   .tex-box h2 {
+      width: 50%;
+   }
+   .title {
+      width: 20%;
+   }
+   .row .col-md-6  {
+      width: 450px;
+      height: 245px;
+   }
+   .maore-one p {
+      width: 100%;
+      margin-top: 20px;
+   } 
+   .row .col-md .maore-one h3 {
+      width: 70%;
+   }
+   .one-img img {
+      position: absolute;
+      top: 1780px;
+      right :100px;
+      width: 30%;
+   }
+   .Shipment {
+      position: absolute;
+      top: 2200px;
+   }
+} 
+@media (max-width: 992px)  {
+   .tex-box p {
+      width: 75%;
+       }
+       .tex-box h2 {
+          width: 50%;
+       }
+       .title {
+          width: 20%;
+       }
+       .row .col-md-6  {
+          width: 450px;
+          height: 245px;
+       }
+       .maore-one p {
+          width: 100%;
+          margin-top: 20px;
+       } 
+       .row .col-md .maore-one h3 {
+          width: 70%;
+       }
+       .one-img img {
+          position: absolute;
+          top: 1750px;
+          left: 500px;
+          width: 30%;
+       }
+       .Shipment {
+         position: absolute;
+         top: 2190px;
+       }
+
+}@media (max-width: 767px) {
+   .Carint-home {
+      height: auto;
+      width: 100%;
+   }
+   .navbar  {
+      width: 100%;
+   }
+   .world-pro-img img {
+      width: 100%;
+   }
+   .tex-box p {
+      width: 100%;
+   }
+   .title {
+      width: 30%;
+   }
+   .detail-box  {
+      width: 100%;
+   }
+   .about-section {
+      width: 100%;
+   }
+   .one-img img {
+      position: absolute;
+      top: 2300px;
+      left: 200px;
+      width: 60%;
+   }
+   .Shipment {
+      position: absolute;
+      top: 2690px;
+   }
+   .Shipment p {
+      width: 100%;
+   }
+   .Track-section {
+      width: 100%;
+   }
+   .mate-box-img {
+      /* width: 110%; */
+      margin-top: 200px;
+      
+   }
+   .contact-section {
+      width: 100%;
+   }
+   .contact-fomr form input  {
+      width: 100%;
+   }
+   .disk  {
+      width: 100%;
+      height: auto;
+   }
+   .art_style p  {
+      width: 100%;
+   }
+   .art_style {
+      width: 90%;
+   }
+     .col-lg-4 {
+      width: 100%;
+   }  
+}
+@media (max-width: 420px)  {
+
+     .Carint-home {
+      height: auto;
+      width: 100%;
+   }
+   .navbar  {
+      width: 100%;
+   }
+   .world-pro-img img {
+      width: 100%;
+      height: 400px;
+   }
+   .growit {
+      margin-top: 20px;
+      width: 100%;
+   }
+   .tex-box  h2 {
+      width: 90%;
+   }
+   .tex-box {
+      position: absolute;
+      top: 200px;
+      left: 80px;
+   }
+   .tex-box p {
+      width: 110%;
+   }
+   .title {
+      /* width: 40%; */
+   }
+   .detail-box  {
+      width: 100%;
+   }
+   .about-section {
+      width: 100%;
+   }
+   .one-img img {
+      position: absolute;
+      top: 2400px;
+      left: 130px;
+      width: 60%;
+   }
+   .Shipment {
+      position: absolute;
+      top: 2590px;
+      margin-top: 30px;
+   }
+   .Shipment p {
+      width: 116%;
+   }
+   .Shipment h2 {
+      width: 100%;
+   }
+   .Track-section {
+      width: 100%;
+   }
+   .mate-box-img img {
+      width: 100%;
+      
+      /* margin-top: 200px; */
+   }
+   .title {
+      width: 40%;
+      margin-top: 20px;
+   }
+   .testimonial {
+      width: 100%;
+   }
+   .actiate-one p {
+      width: 100%;
+      height: auto;
+   }
+   .contact-section {
+      width: 100%;
+   }
+   .contact-fomr form input  {
+      width: 90%;
+      margin-left: 20px;
+   }
+   .disk  {
+      width: 100%;
+      height: auto;
+   }
+   .art_style p  {
+      width: 100%;
+   }
+   .art_style {
+      width: 90%;
+   }
+     .col-lg-4 {
+      width: 100%;
+   }  
+}
